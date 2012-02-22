@@ -1,0 +1,15 @@
+Source: package
+Section: unknown
+Priority: extra
+Maintainer: James Moran <jm3g08@soton.ac.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/package.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/package.git;a=summary
+
+Package: package
+Architecture: all
+Depends: ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>
